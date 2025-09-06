@@ -11,7 +11,7 @@ Object.seal(employee);
 
 delete employee.experience;
 
-employee.salary = employee.salary + 3000;
+employee.salary = employee.salary + 5000;
 
 employee.location = "Chittagong";
 console.log(employee);
