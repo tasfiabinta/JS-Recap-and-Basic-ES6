@@ -44,3 +44,7 @@ multiply(40); // 40 * 1 = 40
 //multiply = 1
 
 //string = ''
+
+//object = {}
+
+//array = []
